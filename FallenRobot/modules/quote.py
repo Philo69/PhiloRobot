@@ -393,7 +393,7 @@ async def quott_(event):
 
 __mod_name__ = "Quotely 🀄"
 
-from Exon.modules.language import gs
+from FallenRobot.modules.language import gs
 
 
 def get_help(chat):
