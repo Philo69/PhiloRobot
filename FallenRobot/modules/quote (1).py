@@ -393,7 +393,7 @@ async def quott_(event):
 
 __mod_name__ = "Quotely 🀄"
 
-from FallenRobot.modules.language import gs
+from FallenRobot.events import app as register
 
 
 def get_help(chat):
