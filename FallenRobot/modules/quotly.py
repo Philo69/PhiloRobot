@@ -1,6 +1,6 @@
 import io
 from io import BytesIO
-from src import app
+from FallenRobot import app
 from pyrogram import filters
 from pyrogram.types import Message
 from httpx import AsyncClient, Timeout
